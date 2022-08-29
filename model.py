@@ -113,3 +113,12 @@ knnpredict=knn.predict(X_test)
 import functions.accuracytestCM as acc
   
 acc.accuracy_test(y_test,knnpredict)
+#MCC --> 0.6286361115149226
+#             precision    recall  f1-score   support
+
+#           0       0.86      0.83      0.85        30
+#           1       0.76      0.80      0.78        20
+
+#    accuracy                           0.82        50
+#   macro avg       0.81      0.82      0.81        50
+# #weighted avg       0.82      0.82      0.82        50
