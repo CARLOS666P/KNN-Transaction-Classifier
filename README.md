@@ -16,7 +16,7 @@ PCA explained variance
 
 ![Figure_2](https://user-images.githubusercontent.com/59314598/187290915-78d53e42-8c03-4608-b3ff-714ea7dd58d8.png)
 
-most efficent K for de model
+most efficent K for de model (k=5)
 
 ![Figure_3](https://user-images.githubusercontent.com/59314598/187291033-b33ea42b-d708-43ec-a680-057933b155e9.png)
 
