@@ -12,7 +12,7 @@ Amount Transaction AVG:21,376$
 
 ![Figure_1](https://user-images.githubusercontent.com/59314598/187290816-d0eeb30a-894c-4d7a-ab0a-f9ca23bff3c4.png)
 
-PCA explained variance
+PCA explained variance (keep only 3 components)
 
 ![Figure_2](https://user-images.githubusercontent.com/59314598/187290915-78d53e42-8c03-4608-b3ff-714ea7dd58d8.png)
 
